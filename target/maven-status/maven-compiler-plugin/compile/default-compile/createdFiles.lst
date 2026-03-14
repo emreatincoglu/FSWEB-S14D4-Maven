@@ -1,0 +1,4 @@
+org\example\rpg\Monster.class
+org\example\rpg\Poisonable.class
+org\example\rpg\Troll.class
+org\example\rpg\Bleedable.class
